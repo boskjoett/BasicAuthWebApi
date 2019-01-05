@@ -1,2 +1,2 @@
-# BasicAuthWebAp
-Simple ASP.NET Core web API with endpoints protected by Basic Authentication
+# BasicAuthWebApi
+Simple ASP.NET Core web API with endpoints protected by Basic Authentication.
